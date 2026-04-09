@@ -1,0 +1,1593 @@
+.i-phone1617-pro20-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.i-phone1617-pro20-thq-i-phone1617-pro20-elm {
+  width: 100%;
+  height: 2259px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(10, 10, 10, 1);
+}
+ 
+.i-phone1617-pro20-thq-rectangle4080-elm {
+  top: 0px;
+  left: 0px;
+  width: 402px;
+  height: 874px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-text-elm10 {
+  top: 600px;
+  left: 20px;
+  color: rgba(255, 154, 172, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 64px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm13 {
+  top: 557px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm14 {
+  top: 746px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-navigation-elm {
+  gap: 35px;
+  top: 904px;
+  left: 20px;
+  width: 362px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-text-elm17 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm18 {
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm19 {
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm20 {
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm21 {
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  font-size: 23px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-group146-elm {
+  top: 1303px;
+  left: 35px;
+  width: 331.22589111328125px;
+  height: 472.9992980957031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1617-pro20-thq-group144-elm {
+  top: 43px;
+  left: 54.00001525878906px;
+  width: 277.2258605957031px;
+  height: 429.9992980957031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1617-pro20-thq-container-elm10 {
+  top: 178.052734375px;
+  left: 83.962890625px;
+  width: 109.85501861572266px;
+  height: 109.85501861572266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm11 {
+  top: -27.462547302246094px;
+  left: -27.463701248168945px;
+  width: 165px;
+  height: 164.79042053222656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 19280136px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm12 {
+  top: 0.0008771519642323256px;
+  left: -0.00040933757554739714px;
+  width: 110px;
+  height: 109.85501861572266px;
+  display: flex;
+  padding: 1.1492061614990234px 1.1491930484771729px 1.149190068244934px 1.1491799354553223px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 19280136px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-image-with-fallback-elm1 {
+  width: 107.55664825439453px;
+  height: 107.55664825439453px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("/tq_afewerzfdr-ygbw-1500h.png");
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm10 {
+  top: 120.16220092773438px;
+  left: 9.42656135559082px;
+  width: 91px;
+  height: 17.156991958618164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-text-elm22 {
+  top: 0.29177582263946533px;
+  left: -0.00019687188614625484px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.015968322753906px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.165668487548828px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-container-elm13 {
+  top: 17.166015625px;
+  left: 47.2060546875px;
+  width: 49.92963409423828px;
+  height: 49.92963409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm14 {
+  top: -12.482336044311523px;
+  left: -12.482455253601074px;
+  width: 75px;
+  height: 74.89803314208984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm15 {
+  top: -0.00034696233342401683px;
+  left: -0.0004658651305362582px;
+  width: 50px;
+  height: 49.92963409423828px;
+  display: flex;
+  padding: 0.5223197340965271px 0.5223137140274048px 0.5223124027252197px 0.522307813167572px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm10 {
+  width: 47px;
+  height: 47px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm23 {
+  top: 62.786773681640625px;
+  left: 7.724084854125977px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 5.461315155029297px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 7.801878452301025px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm11 {
+  top: 62.65434265136719px;
+  left: 7.724084854125977px;
+  width: 34px;
+  height: 7.724550724029541px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm16 {
+  top: 133.033203125px;
+  left: 17.166015625px;
+  width: 49.92963409423828px;
+  height: 49.92963409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm17 {
+  top: -12.481260299682617px;
+  left: -12.482336044311523px;
+  width: 75px;
+  height: 74.89803314208984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm18 {
+  top: 0.0007290107314474881px;
+  left: -0.00034696233342401683px;
+  width: 50px;
+  height: 49.92963409423828px;
+  display: flex;
+  padding: 0.5223197340965271px 0.5223137140274048px 0.5223124027252197px 0.522307813167572px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm11 {
+  width: 47px;
+  height: 47px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm24 {
+  top: 62.78784942626953px;
+  left: 7.724204063415527px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 5.461315155029297px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 7.801878452301025px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm12 {
+  top: 62.655418395996094px;
+  left: 7.724204063415527px;
+  width: 34px;
+  height: 7.724550724029541px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm19 {
+  top: 280.658203125px;
+  left: 24.890625px;
+  width: 49.92963409423828px;
+  height: 49.92963409423828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm20 {
+  top: -12.4815092086792px;
+  left: -12.482394218444824px;
+  width: 75px;
+  height: 74.89803314208984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm21 {
+  top: 0.0004795097338501364px;
+  left: -0.00040543911745771766px;
+  width: 50px;
+  height: 49.92963409423828px;
+  display: flex;
+  padding: 0.5223197340965271px 0.5223137140274048px 0.5223124027252197px 0.522307813167572px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8762914px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm12 {
+  width: 47px;
+  height: 47px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm25 {
+  top: 62.787601470947266px;
+  left: 7.724145412445068px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 5.461315155029297px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 7.801878452301025px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm13 {
+  top: 62.65517044067383px;
+  left: 7.724145412445068px;
+  width: 34px;
+  height: 7.724550724029541px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm22 {
+  top: 369.0625px;
+  left: 0px;
+  width: 34.331336975097656px;
+  height: 34.331336975097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm23 {
+  top: -8.583457946777344px;
+  left: -8.582834243774414px;
+  width: 51px;
+  height: 51.49946975708008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm24 {
+  top: -0.000623752479441464px;
+  left: 0px;
+  width: 34px;
+  height: 34.331336975097656px;
+  display: flex;
+  padding: 0.3591441214084625px 0.359140008687973px 0.359139084815979px 0.3591359257698059px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm13 {
+  width: 32px;
+  height: 32px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm26 {
+  top: 43.17170333862305px;
+  left: 5.311466693878174px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 3.7551698684692383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.364528179168701px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm14 {
+  top: 43.081180572509766px;
+  left: 5.311466693878174px;
+  width: 24px;
+  height: 5.3113579750061035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm25 {
+  top: 395.66796875px;
+  left: 125.3095703125px;
+  width: 34.331336975097656px;
+  height: 34.331336975097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm26 {
+  top: -8.58213996887207px;
+  left: -8.583023071289062px;
+  width: 51px;
+  height: 51.49946975708008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm27 {
+  top: 0.0006939246668480337px;
+  left: -0.00018907496996689588px;
+  width: 34px;
+  height: 34.331336975097656px;
+  display: flex;
+  padding: 0.3591441214084625px 0.359140008687973px 0.359139084815979px 0.3591359257698059px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm14 {
+  width: 32px;
+  height: 32px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm27 {
+  top: 43.17301940917969px;
+  left: 5.311277866363525px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 3.7551698684692383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.364528179168701px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm15 {
+  top: 43.08250045776367px;
+  left: 5.311277866363525px;
+  width: 24px;
+  height: 5.3113579750061035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm28 {
+  top: 345.029296875px;
+  left: 187.9638671875px;
+  width: 34.331336975097656px;
+  height: 34.331336975097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm29 {
+  top: -8.582191467285156px;
+  left: -8.582629203796387px;
+  width: 51px;
+  height: 51.49946975708008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm30 {
+  top: 0.0006432447698898613px;
+  left: 0.00020466878777369857px;
+  width: 34px;
+  height: 34.331336975097656px;
+  display: flex;
+  padding: 0.3591441214084625px 0.359140008687973px 0.359139084815979px 0.3591359257698059px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm15 {
+  width: 32px;
+  height: 32px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm28 {
+  top: 43.172969818115234px;
+  left: 5.311671733856201px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 3.7551698684692383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.364528179168701px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm16 {
+  top: 43.08244705200195px;
+  left: 5.311671733856201px;
+  width: 24px;
+  height: 5.3113579750061035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm31 {
+  top: 296.107421875px;
+  left: 242.89453125px;
+  width: 34.331336975097656px;
+  height: 34.331336975097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm32 {
+  top: -8.58247184753418px;
+  left: -8.58315372467041px;
+  width: 51px;
+  height: 51.49946975708008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm33 {
+  top: 0.0003625561366789043px;
+  left: -0.00031967315590009093px;
+  width: 34px;
+  height: 34.331336975097656px;
+  display: flex;
+  padding: 0.3591441214084625px 0.359140008687973px 0.359139084815979px 0.3591359257698059px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6025331px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm16 {
+  width: 32px;
+  height: 32px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm29 {
+  top: 43.172691345214844px;
+  left: 5.311147212982178px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 3.7551698684692383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.364528179168701px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm17 {
+  top: 43.08216857910156px;
+  left: 5.311147212982178px;
+  width: 24px;
+  height: 5.3113579750061035px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm34 {
+  top: 224.01171875px;
+  left: 236.0283203125px;
+  width: 29.181636810302734px;
+  height: 29.181636810302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm35 {
+  top: -7.295151710510254px;
+  left: -7.295785427093506px;
+  width: 44px;
+  height: 43.7745475769043px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 5121531.5px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm36 {
+  top: 0.00025729791377671063px;
+  left: -0.000376200710888952px;
+  width: 29px;
+  height: 29.181636810302734px;
+  display: flex;
+  padding: 0.30527251958847046px 0.3052690327167511px 0.30526822805404663px 0.30526554584503174px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 5121531.5px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm17 {
+  width: 28px;
+  height: 28px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm30 {
+  top: 36.696903228759766px;
+  left: 4.513993263244629px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 3.19189453125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 4.559848785400391px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm18 {
+  top: 36.61979293823242px;
+  left: 4.513993263244629px;
+  width: 20px;
+  height: 4.514654636383057px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm37 {
+  top: 0px;
+  left: 149.341796875px;
+  width: 42.05588912963867px;
+  height: 42.05588912963867px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm38 {
+  top: -10.513972282409668px;
+  left: -10.51445198059082px;
+  width: 63px;
+  height: 63.086849212646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 7381031px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm39 {
+  top: 0px;
+  left: -0.0004795097338501364px;
+  width: 42px;
+  height: 42.05588912963867px;
+  display: flex;
+  padding: 0.4399515390396118px 0.4399465024471283px 0.43994536995887756px 0.43994152545928955px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 7381031px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm18 {
+  width: 40px;
+  height: 40px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm31 {
+  top: 52.885009765625px;
+  left: 6.506214141845703px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 4.600082874298096px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 6.571547031402588px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm19 {
+  top: 52.77437210083008px;
+  left: 6.506214141845703px;
+  width: 29px;
+  height: 6.50641393661499px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm40 {
+  top: 73.8125px;
+  left: 205.98828125px;
+  width: 36.90618896484375px;
+  height: 36.90618896484375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm41 {
+  top: -9.22667121887207px;
+  left: -9.22680377960205px;
+  width: 55px;
+  height: 55.3619270324707px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6477231px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm42 {
+  top: -0.00012475049879867584px;
+  left: -0.00025729791377671063px;
+  width: 37px;
+  height: 36.90618896484375px;
+  display: flex;
+  padding: 0.38607993721961975px 0.386075496673584px 0.3860745131969452px 0.386071115732193px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6477231px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm19 {
+  width: 35px;
+  height: 35px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm32 {
+  top: 46.40920639038086px;
+  left: 5.709339141845703px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 4.036807537078857px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.766867637634277px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm20 {
+  top: 46.31197738647461px;
+  left: 5.709339141845703px;
+  width: 25px;
+  height: 5.709710121154785px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm43 {
+  top: 133.033203125px;
+  left: 228.3037109375px;
+  width: 36.90618896484375px;
+  height: 36.90618896484375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-container-elm44 {
+  top: -9.225817680358887px;
+  left: -9.2268648147583px;
+  width: 55px;
+  height: 55.3619270324707px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6477231px;
+  background-color: rgba(255, 154, 172, 0);
+}
+ 
+.i-phone1617-pro20-thq-container-elm45 {
+  top: 0.0007290107314474881px;
+  left: -0.0003177239268552512px;
+  width: 37px;
+  height: 36.90618896484375px;
+  display: flex;
+  padding: 0.38607993721961975px 0.386075496673584px 0.3860745131969452px 0.386071115732193px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6477231px;
+  flex-direction: column;
+  background-color: rgba(81, 81, 81, 0.000009999999747378752);
+}
+ 
+.i-phone1617-pro20-thq-ellipse108-elm20 {
+  width: 35px;
+  height: 35px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm33 {
+  top: 46.410057067871094px;
+  left: 5.709278583526611px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 4.036807537078857px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 5.766867637634277px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-paragraph-elm21 {
+  top: 46.31283187866211px;
+  left: 5.709278583526611px;
+  width: 25px;
+  height: 5.709710121154785px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-group142-elm {
+  top: 66px;
+  left: 20.000017166137695px;
+  width: 378px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1617-pro20-thq-line1-elm {
+  top: 10.99999956288616px;
+  left: -10.000000480825271px;
+  width: 362px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-ellipse109-elm {
+  top: 367.99999978144297px;
+  left: -5.0000160857908895px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-ellipse110-elm {
+  top: 246.99999978144297px;
+  left: -5.000010796712907px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-ellipse111-elm {
+  top: 125.99999978144297px;
+  left: -5.000005507634924px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-ellipse112-elm {
+  top: 4.999999781442966px;
+  left: -5.000000218556941px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-ellipse113-elm {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-color: rgba(228, 84, 63, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.i-phone1617-pro20-thq-group143-elm {
+  top: 0px;
+  left: 0.00001652290484344121px;
+  width: 100px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1617-pro20-thq-text-elm34 {
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm35 {
+  top: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-group148-elm {
+  top: 1829px;
+  left: -190px;
+  width: 782px;
+  height: 349.330078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.i-phone1617-pro20-thq-frame1321314481-elm {
+  gap: 10px;
+  top: 50px;
+  left: 0px;
+  width: 782px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.i-phone1617-pro20-thq-frame1321314480-elm {
+  width: 782px;
+  height: 299.330078125px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-image-with-fallback-elm2 {
+  top: 0px;
+  left: 258px;
+  width: 267px;
+  height: 251px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-size: cover;
+  background-image: url("/tq_h1zesfrzc2-feo5-300h.png");
+}
+ 
+.i-phone1617-pro20-thq-image-with-fallback-elm3 {
+  top: 18px;
+  left: 539px;
+  width: 243px;
+  height: 218px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-size: cover;
+  background-image: url("/tq_8thvjvesbq-omil-300h.png");
+}
+ 
+.i-phone1617-pro20-thq-image-with-fallback-elm4 {
+  top: 18px;
+  left: 0px;
+  width: 243px;
+  height: 218px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-size: cover;
+  background-image: url("/tq_1nnnmmkzzi-cz7-300h.png");
+}
+ 
+.i-phone1617-pro20-thq-text-elm36 {
+  top: 259px;
+  left: 370px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm37 {
+  top: 283.330078125px;
+  left: 378px;
+  color: rgba(153, 161, 175, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-section-header-elm1 {
+  top: 0px;
+  left: 210px;
+  width: 260px;
+  display: flex;
+  padding: 2px 12px 10px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-section-header-elm2 {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+ 
+.i-phone1617-pro20-thq-trailing-elm {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.i-phone1617-pro20-thq-text-elm38 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: right;
+  line-height: 22px;
+}
+ 
+.i-phone1617-pro20-thq-disclosure-elm {
+  width: 18px;
+  height: 18px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-text-elm39 {
+  top: 2px;
+  color: rgba(245, 245, 245, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-rectangle4088-elm {
+  top: 965px;
+  left: 20px;
+  width: 362px;
+  height: 284px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.i-phone1617-pro20-thq-text-elm40 {
+  top: 1134px;
+  left: 39px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm41 {
+  top: 1181px;
+  left: 38px;
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm42 {
+  top: 1181px;
+  left: 143px;
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm43 {
+  top: 1181px;
+  left: 259px;
+  color: rgba(65, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm44 {
+  top: 1200px;
+  left: 38px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm45 {
+  top: 1200px;
+  left: 143px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-text-elm46 {
+  top: 1200px;
+  left: 259px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-rectangle4091-elm {
+  top: 975px;
+  left: 31px;
+  width: 106px;
+  height: 105px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.i-phone1617-pro20-thq-rectangle4089-elm {
+  top: 975px;
+  left: 149px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.i-phone1617-pro20-thq-rectangle4090-elm {
+  top: 975px;
+  left: 266px;
+  width: 106px;
+  height: 105px;
+  position: absolute;
+  border-radius: 20px;
+}
+ 
+.i-phone1617-pro20-thq-status-bar-elm {
+  gap: 154px;
+  top: 0px;
+  left: 0px;
+  width: 402px;
+  display: flex;
+  padding: 21px 24px 19px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.i-phone1617-pro20-thq-time-elm {
+  gap: 10px;
+  height: 22px;
+  display: flex;
+  padding: 1.5px 0 0;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.i-phone1617-pro20-thq-text-elm47 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1617-pro20-thq-levels-elm {
+  gap: 7px;
+  height: 22px;
+  display: flex;
+  padding: 1px 1px 0 0;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.i-phone1617-pro20-thq-cellular-connection-elm {
+  width: 19px;
+  height: 12px;
+}
+ 
+.i-phone1617-pro20-thq-wifi-elm {
+  width: 17px;
+  height: 12px;
+}
+ 
+.i-phone1617-pro20-thq-frame-elm {
+  width: 27.32803726196289px;
+  height: 13px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.i-phone1617-pro20-thq-border-elm {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4.300000190734863px;
+}
+ 
+.i-phone1617-pro20-thq-cap-elm {
+  top: 4.5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+ 
+.i-phone1617-pro20-thq-capacity-elm {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+  border-radius: 2.5px;
+}
+ 
+.i-phone1617-pro20-link {
+  display: contents;
+}
+ 
+.i-phone1617-pro20-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.i-phone1617-pro20-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.i-phone1617-pro20-text3 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
